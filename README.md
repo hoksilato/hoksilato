@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hoksilato&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoksilato&theme=gruvbox&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=hoksilato&theme=gruvbox&layout=compact" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hoksilato&count_private=true&show_icons=true&theme=gruvbox" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoksilato&theme=gruvbox&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=hoksilato&theme=gruvbox&layout=compact" />
 
 <!--
 **hoksilato/hoksilato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
